@@ -1,0 +1,7 @@
+name: null
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip:
+    - -r file:requirements.txt
