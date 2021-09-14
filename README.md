@@ -7,5 +7,8 @@
 
 Timings to launch notebook
 
+ Experiment | Timing |
+----------- | ------ |
 Binder with change in requirements.txt | > 15' |
-Binder                                 | > 15' |
+Binder                                 | ~ 15'30'' |
+Binder with image from DockerHub       | ~ 12'30'' |
