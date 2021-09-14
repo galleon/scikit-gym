@@ -3,3 +3,9 @@
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galleon/scikit-gym/HEAD?filepath=notebook.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/galleon/scikit-gym/blob/main/notebook.ipynb)
+
+
+Timings to launch notebook
+
+Binder with change in requirements.txt | > 15' |
+Binder                                 | > 15' |
